@@ -6,7 +6,7 @@ Bangla Arxiv CS Papers
 Arxiv provides open access to 1,000,000+ article in different categories. We query arxiv by arxiv python package using keywords 'bangla', 'bengali', 'bn' Gathered total 225 papers in computer science category
 
 ## Query By Yourself
-- Install `arxiv` by `pip install arxiv`
+- Install dependencies by `pip install -r requirements.txt`
 - run `python query_arxiv.py`
 
 ## Arxiv Bangla CS Papers List
