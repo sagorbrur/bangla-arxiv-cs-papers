@@ -3,8 +3,13 @@ Bangla Arxiv CS Papers
 ======================
 
 
-Arxiv provides open access to 1,000,000+ article in different categories. We query arxiv by arxiv python package using keywords 'bagnla', 'bengali', 'bn' Gathered total 225 papers in computer science category  
+Arxiv provides open access to 1,000,000+ article in different categories. We query arxiv by arxiv python package using keywords 'bagnla', 'bengali', 'bn' Gathered total 225 papers in computer science category
 
+## Query By Yourself
+- Install `arxiv` by `pip install arxiv`
+- run `python query_arxiv.py`
+
+## Arxiv Bangla CS Papers List
 |title|category|url|author|published_date|
 | :--- | :--- | :--- | :--- | :--- |
 |A Complete Workflow for Development of Bangla OCR|cs.CV|http://arxiv.org/abs/1204.1198v1|Md. Abu Naser Bikas|2012-04-05T12:28:11Z|
